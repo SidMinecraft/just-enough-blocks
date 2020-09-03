@@ -1,0 +1,17 @@
+{
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 1, 16],
+			"color": 3,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 1], "texture": "minecraft:diorite"},
+				"east": {"uv": [0, 0, 16, 1], "texture": "minecraft:diorite"},
+				"south": {"uv": [0, 0, 16, 1], "texture": "minecraft:diorite"},
+				"west": {"uv": [0, 0, 16, 1], "texture": "minecraft:diorite"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "minecraft:diorite"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "minecraft:diorite"}
+			}
+		}
+	]
+}

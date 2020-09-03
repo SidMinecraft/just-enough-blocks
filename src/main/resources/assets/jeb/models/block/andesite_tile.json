@@ -1,0 +1,17 @@
+{
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 1, 16],
+			"color": 3,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 1], "texture": "minecraft:andesite"},
+				"east": {"uv": [0, 0, 16, 1], "texture": "minecraft:andesite"},
+				"south": {"uv": [0, 0, 16, 1], "texture": "minecraft:andesite"},
+				"west": {"uv": [0, 0, 16, 1], "texture": "minecraft:andesite"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "minecraft:andesite"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "minecraft:andesite"}
+			}
+		}
+	]
+}
