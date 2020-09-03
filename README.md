@@ -1,4 +1,5 @@
 # Just Enough Blocks
+## This mod adds way more blocks to Minecraft!
 
 ## License
 
